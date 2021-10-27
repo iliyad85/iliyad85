@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ml_projects
 - 📫 How to reach me ...
 You can write me : ali.khalaji@stud.tu-darmstadt.de
-[Ali Khalaji](mailto:ali.khalaji@stud.tu-darmstadt.de?subject=[GitHub]%20Source%20Han%20Sans)
+[Ali Khalaji](mailto:ali.khalaji@stud.tu-darmstadt.de?subject=[GitHub]%20?)
 
 
 <!---
